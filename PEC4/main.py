@@ -4,11 +4,11 @@
 from PIL import Image
 
     # MÓDULOS
-from Ex1.Ex1 import ex1
-from Ex2.Ex2 import ex2
-from Ex3.Ex3 import ex3
-from Ex4.Ex4 import ex4
-from Ex5.Ex5 import ex5
+from PEC4.Ex1.Ex1 import ex1
+from PEC4.Ex2.Ex2 import ex2
+from PEC4.Ex3.Ex3 import ex3
+from PEC4.Ex4.Ex4 import ex4
+from PEC4.Ex5.Ex5 import ex5
 
 
 # FUNCIONESS

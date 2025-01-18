@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: PEC4_Tests
+Version: 1.0.0
+Summary: Pruebas unitarias para el proyecto PEC4
+Author: Ignacio Muñoz Gracia
+Author-email: imunoz5@uoc.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: Pillow
+Requires-Dist: coverage

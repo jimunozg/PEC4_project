@@ -1,0 +1,7 @@
+setup.py
+PEC4_Tests.egg-info/PKG-INFO
+PEC4_Tests.egg-info/SOURCES.txt
+PEC4_Tests.egg-info/dependency_links.txt
+PEC4_Tests.egg-info/entry_points.txt
+PEC4_Tests.egg-info/requires.txt
+PEC4_Tests.egg-info/top_level.txt
